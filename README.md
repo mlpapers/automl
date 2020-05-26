@@ -22,6 +22,7 @@
   - Hyperopt ([Homepage](http://hyperopt.github.com/hyperopt/), [PyPI](https://pypi.org/project/hyperopt/), [Paper](http://www.coxlab.org/pdfs/2013_bergstra_hyperopt.pdf))
   - Hyperparameter Hunter ([Homepage](https://hyperparameter-hunter.readthedocs.io/en/latest/), [PyPI](https://pypi.org/project/hyperparameter_hunter/))
   - Keras Tuner ([Homepage](https://keras-team.github.io/keras-tuner/), [PyPI](https://pypi.org/project/keras-tuner/))
+  - Mango ([Homepage](https://github.com/ARM-software/mango), [Paper](https://arxiv.org/pdf/2005.11394.pdf))
   - Milano ([Homepage](https://nvidia.github.io/Milano/))
   - MLBox ([Homepage](https://mlbox.readthedocs.io/en/latest/), [PyPI](https://pypi.org/project/mlbox/))
   - nni ([Homepage](https://nni.readthedocs.io/en/latest/), [PyPI](https://pypi.org/project/nni/))
