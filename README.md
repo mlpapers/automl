@@ -10,13 +10,15 @@
 ### Software
 - **Python**
   - Adanet ([Homepage](https://adanet.readthedocs.io), [PyPI](https://pypi.org/project/adanet/))
+  - AgEBO-Tabular ([Homepage](https://github.com/deephyper/NASBigData), [Paper](https://arxiv.org/pdf/2010.16358.pdf))
+  - AlphaD3M ([Homepage](https://cims.nyu.edu/~drori/alphad3m.html), [Paper](https://arxiv.org/pdf/1905.10345.pdf)) - closed source. Uses RL to tackle pipeline search
   - Auptimizer ([Homepage](https://lge-arc-advancedai.github.io/auptimizer/), [PyPI](https://pypi.org/project/auptimizer/))
   - Auto-PyTorch ([Homepage](https://github.com/automl/Auto-PyTorch), [Paper](https://arxiv.org/pdf/2006.13799.pdf))
-  - Auto-Sklearn ([Homepage](https://automl.github.io/auto-sklearn/master/), [PyPI](https://pypi.org/project/auto-sklearn/))
-  - Auto-Sklearn 2.0 ([Homepage](https://automl.github.io/auto-sklearn/master/), [PyPI](https://pypi.org/project/auto-sklearn/), [Paper](https://arxiv.org/pdf/2007.04074.pdf))
+  - Auto-Sklearn ([Homepage](https://automl.github.io/auto-sklearn/master/), [PyPI](https://pypi.org/project/auto-sklearn/)) - based on bayesian optimization
+  - Auto-Sklearn 2.0 ([Homepage](https://automl.github.io/auto-sklearn/master/), [PyPI](https://pypi.org/project/auto-sklearn/), [Paper](https://arxiv.org/pdf/2007.04074.pdf)) - uses portfolio learning
   - AutoGBT ([Homepage](https://github.com/flytxtds/AutoGBT))
   - AutoGBT-alt ([Homepage](https://github.com/pfnet-research/autogbt-alt))
-  - AutoGluon ([Homepage](https://autogluon.mxnet.io), [PyPI](https://pypi.org/project/autogluon/))
+  - AutoGluon ([Homepage](https://autogluon.mxnet.io), [PyPI](https://pypi.org/project/autogluon/)) - uses multi-Layer stack ensembling with k-fold ensemble bagging at all layers
   - AutoKeras ([Homepage](https://autokeras.com/), [PyPI](https://pypi.org/project/autokeras/))
   - AutoML Zero ([Homepage](https://github.com/google-research/google-research/tree/master/automl_zero), [Paper](https://arxiv.org/pdf/2003.03384.pdf))
   - AutoML-DSGE ([Homepage](https://github.com/fillassuncao/automl-dsge), [Paper](https://arxiv.org/pdf/2004.00307.pdf))
@@ -24,6 +26,7 @@
   - AutoRec ([Homepage](https://github.com/datamllab/AutoRecSys), [Video](https://www.youtube.com/watch?v=z0HkKGVAQkE)) - Automated Recommender System
   - AutoViML([Homepage](https://github.com/AutoViML/Auto_ViML))
   - AX ([Homepage](https://ax.dev/), [PyPI](https://pypi.org/project/ax-platform/))
+  - Axolotl ([Homepage](https://gitlab.com/axolotl1/axolotl))
   - BOHB ([Homepage](https://www.automl.org/automl/bohb/))
   - BoTorch ([Homepage](https://botorch.org/docs/introduction.html), [PyPI](https://pypi.org/project/botorch/))
   - Gama ([Homepage](https://github.com/PGijsbers/gama/), [Paper](https://arxiv.org/pdf/2007.04911.pdf))
