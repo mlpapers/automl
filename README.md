@@ -3,6 +3,7 @@
 ### Hyper-parameters optimization
 - Surveys
   - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/pdf/2007.15745.pdf) (2020) *Li Yang, Abdallah Shami*
+    - Code: [Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
 ### Neural Architecture Search (NAS)
 ### Other
 - Automatic Statistician
