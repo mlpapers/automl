@@ -52,6 +52,7 @@
   - Spearmint ([Homepage](https://github.com/HIPS/Spearmint))
   - Talos ([Homepage](https://github.com/autonomio/talos), [PyPI]((https://pypi.org/project/talos/))
   - TPOT ([Homepage](https://automl.info/tpot/), [PyPI](https://pypi.org/project/TPOT/))
+  - VolcanoML ([Paper](https://arxiv.org/pdf/2107.08861.pdf), [Code](https://github.com/VolcanoML))
 
 - **Scala**
   - TransmogrifAI ([Homepage](https://github.com/salesforce/TransmogrifAI))
