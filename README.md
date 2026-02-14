@@ -7,7 +7,7 @@
 ### Other
 - Automatic Statistician
 
-### Software
+## Software
 - **Python**
   - Adanet ([Homepage](https://adanet.readthedocs.io), [PyPI](https://pypi.org/project/adanet/))
   - AgEBO-Tabular ([Homepage](https://github.com/deephyper/NASBigData), [Paper](https://arxiv.org/pdf/2010.16358.pdf))
@@ -56,3 +56,9 @@
 
 - **Scala**
   - TransmogrifAI ([Homepage](https://github.com/salesforce/TransmogrifAI))
+
+## Related Topics
+- [Optimization](https://mlpapers.org/optimization/)
+- [Neural Networks](https://mlpapers.org/neural-nets/)
+- [Ensemble Learning](https://mlpapers.org/ensemble-learning/)
+- [Feature Selection](https://mlpapers.org/feature-selection/)
