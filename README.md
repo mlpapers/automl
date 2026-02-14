@@ -1,11 +1,3 @@
----
-title: "Automatic Machine Learning (AutoML)"
-aliases: ["AutoML", "Automated Machine Learning"]
-tags:
-  - automl
-  - optimization
-  - neural-architecture-search
----
 # Automatic Machine Learning (AutoML)
 
 ### Hyper-parameters optimization
@@ -15,7 +7,7 @@ tags:
 ### Other
 - Automatic Statistician
 
-## Software
+### Software
 - **Python**
   - Adanet ([Homepage](https://adanet.readthedocs.io), [PyPI](https://pypi.org/project/adanet/))
   - AgEBO-Tabular ([Homepage](https://github.com/deephyper/NASBigData), [Paper](https://arxiv.org/pdf/2010.16358.pdf))
@@ -64,9 +56,3 @@ tags:
 
 - **Scala**
   - TransmogrifAI ([Homepage](https://github.com/salesforce/TransmogrifAI))
-
-## Related Topics
-- [Optimization](https://mlpapers.org/optimization/)
-- [Neural Networks](https://mlpapers.org/neural-nets/)
-- [Ensemble Learning](https://mlpapers.org/ensemble-learning/)
-- [Feature Selection](https://mlpapers.org/feature-selection/)
