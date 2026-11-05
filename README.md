@@ -13,8 +13,9 @@
 - **Practical Bayesian optimization** - Models validation performance with a Gaussian process and selects subsequent trials from its posterior; also considers variable evaluation costs and parallel experiments. [Snoek et al. 2012](<https://arxiv.org/abs/1206.2944> "Practical Bayesian Optimization of Machine Learning Algorithms; NeurIPS").
 - **Neural surrogates for Bayesian optimization** - Uses a neural network to learn basis functions for Bayesian regression, replacing a Gaussian-process surrogate when many evaluations make its fitting cost restrictive. [Snoek et al. 2015](<https://arxiv.org/abs/1502.05700> "Scalable Bayesian Optimization Using Deep Neural Networks; ICML").
 - **Hyperband** - Allocates increasing resources to randomly sampled configurations and stops weak candidates early; searches across different tradeoffs between breadth and evaluation budget. [Li et al. 2018](<https://arxiv.org/abs/1603.06560> "Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization; JMLR").
-- **BOHB** - Combines model-guided configuration selection with Hyperband's budget allocation, joining informed search with evaluations at multiple resource levels. [Falkner et al. 2018](<https://arxiv.org/abs/1807.01774> "BOHB: Robust and Efficient Hyperparameter Optimization at Scale; ICML").
+- **BOHB** - Combines model-guided configuration selection with Hyperband's budget allocation, joining informed search with evaluations at multiple resource levels. [Falkner et al. 2018](<https://proceedings.mlr.press/v80/falkner18a.html> "BOHB: Robust and Efficient Hyperparameter Optimization at Scale; ICML").
 - **ASHA** - Uses asynchronous resource allocation and aggressive early stopping for parallel hyperparameter tuning, allowing search to exploit many workers without synchronized evaluation rounds. [Li et al. 2020](<https://arxiv.org/abs/1810.05934> "A System for Massively Parallel Hyperparameter Tuning; MLSys").
+- **Hyperparameter transfer** - See [Optimization](https://mlpapers.org/optimization/#hyperparameter-transfer) for transferring tuned settings from small models or short runs to larger training budgets.
 
 ## Pipeline search and ensembles
 
