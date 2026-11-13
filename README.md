@@ -101,3 +101,4 @@
 - [Neural Networks](https://mlpapers.org/neural-nets/)
 - [Ensemble Learning](https://mlpapers.org/ensemble-learning/)
 - [Feature Selection](https://mlpapers.org/feature-selection/)
+- [Automated Research](https://mlpapers.org/automated-research/)
